@@ -1,0 +1,3 @@
+[submodule "modules/repoInRepo"]
+	path = modules/repoInRepo
+	url = https://github.com/cypherSoftware/repoInRepo.git
